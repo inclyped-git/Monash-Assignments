@@ -7,9 +7,11 @@ The source code of the program is contained within the file "ringtone_interprete
 ## Restrictions
 The project was made with consideration of restrictions to user inputs, which may throw errors when some inputs are unexpected/invalidated. Some of them require specific input format, and it won't be covered under this repository. This repository serves the purpose of archiving some of my older projects during the FIT1045 unit.
 
-## More information!!
+## More information
 The 'BREAKDOWN' folder contains individual files that were compiled together to construct the final "ringtone_interpreter.py" file. Some of the source code within the individual files will be misleading or uncompleted. Please check the final source code for the full program.
 
 The 'SAMPLEOUTPUTS' folder contains the expected outputs returned by the program with the given restricted inputs. Feel free to use these files to check if the outputs are similar/identical with the final source code.
 
 The 'ESSENTIALS' folder contain other essential files required to be in the same directory as the final source code in order to be fully functional.
+
+### Final Score: 96.43 / 100 (High Distinction)
