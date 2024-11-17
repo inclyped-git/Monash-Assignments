@@ -1,0 +1,24 @@
+Twinkle Twinkle 1:d=4,o=5,b=80:32p,8c,8c,8g,8g,8a,8a,g
+Twinkle Twinkle 2: d=4,o=5,b=80
+Scale Up 1:D= 8 , O  =  4,B =100 :4c5, 4d5,4 e5, 4f 5,4g5, 4a5,  4B5, 4C 6
+
+
+
+
+Scale Down 1:d= 4,o = 5,b=60:4c6,4b5,4a5, 4g5,4f5,4e5,4d5,4c5
+
+Scale Down 2: 4 c6,    4B 5,4A 5,4 g5,  4f5#, 4e5, 4D5,4C5 
+
+
+Scale Up 2:D= 8 , 0  = 4,b =100 :4c5, 4D5,    4e5, 4f 5,4g5, 4A5,  4B 5, 4C 6
+
+Keysmash Song 1: d=4,o=5,b= 60:4A 8 ,16B 5,32 c4,e 7,f2  ,d,P,32 a#8.
+
+Keysmash Song 2: d=4,o=5,b= 60:4a8 ,16b5,3 2c4,e 7,f2,d 9, p,32 a#8.
+
+Twinkity Binkity 1:d=4,o=5,b= 80:3 2p,8c,8c ,8 G ,8g,8A,8a,g
+Twinkity Binkity 2:d=4,o = 5,b= 60:32p,7c,8C ,8 G,8G,8   A   ,8a,  g
+
+Flashy Minute Gaseous Orbital Units 1: d=4,o=6,b=80: 32p,8c,8 c,8g,8g,8 a,8a,g
+
+Flashy Minute Gaseous Orbital Units 2: d =4, o=6, B=80: 32p,8.C,8c, 8g, 8g,8 a,   8a,G

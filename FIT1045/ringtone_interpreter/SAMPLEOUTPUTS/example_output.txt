@@ -1,0 +1,136 @@
+[user@sahara ~]$ python ringtone_interpreter.py 
+
+------------------------------------------
+"Mamba Number Py" Ringtone Interpreter🎵
+------------------------------------------
+
+File to read? file1.txt
+Read 24 lines from "file1.txt".
+Generated 6 valid songs.
+
+---------------SONG TITLES----------------
+0  Twinkle Twinkle 1
+1  Scale Up 1
+2  Scale Down 1
+3  Keysmash Song 1
+4  Twinkity Binkity 1
+5  Flashy Minute Gaseous Orbital Units 1
+------------------------------------------
+
+Select songs to discard (e.g. 1,2,4 or None): 3,4
+
+---------------SONG TITLES----------------
+0  Twinkle Twinkle 1
+1  Scale Up 1
+2  Scale Down 1
+3  Flashy Minute Gaseous Orbital Units 1
+------------------------------------------
+
+Do you wish to modify any songs (Y/N)? Y
+
+---------------SONG TITLES----------------
+0  Twinkle Twinkle 1
+1  Scale Up 1
+2  Scale Down 1
+3  Flashy Minute Gaseous Orbital Units 1
+------------------------------------------
+
+Select song to modify: 0
+
+1 - Double length of each note (slower)
+2 - Half length of each note (faster)
+3 - Increase octave of each note 
+4 - Decrease octave of each note 
+
+Select option: 1
+Twinkle Twinkle 1 now plays 2 times slower.
+
+Do you wish to modify any songs (Y/N)? Y
+
+---------------SONG TITLES----------------
+0  Twinkle Twinkle 1
+1  Scale Up 1
+2  Scale Down 1
+3  Flashy Minute Gaseous Orbital Units 1
+------------------------------------------
+
+Select song to modify: 1
+
+1 - Double length of each note (slower)
+2 - Half length of each note (faster)
+3 - Increase octave of each note 
+4 - Decrease octave of each note 
+
+Select option: 2
+Scale Up 1 now plays 2 times faster.
+
+Do you wish to modify any songs (Y/N)? Y
+
+---------------SONG TITLES----------------
+0  Twinkle Twinkle 1
+1  Scale Up 1
+2  Scale Down 1
+3  Flashy Minute Gaseous Orbital Units 1
+------------------------------------------
+
+Select song to modify: 2
+
+1 - Double length of each note (slower)
+2 - Half length of each note (faster)
+3 - Increase octave of each note 
+4 - Decrease octave of each note 
+
+Select option: 3
+How many octaves do you wish to increase? 2
+Scale Down 1 is now 2 octaves higher.
+
+Do you wish to modify any songs (Y/N)? Y
+
+---------------SONG TITLES----------------
+0  Twinkle Twinkle 1
+1  Scale Up 1
+2  Scale Down 1
+3  Flashy Minute Gaseous Orbital Units 1
+------------------------------------------
+
+Select song to modify: 3
+
+1 - Double length of each note (slower)
+2 - Half length of each note (faster)
+3 - Increase octave of each note 
+4 - Decrease octave of each note 
+
+Select option: 4
+How many octaves do you wish to decrease? 1
+Flashy Minute Gaseous Orbital Units 1 is now 1 octave lower.
+
+Do you wish to modify any songs (Y/N)? Y
+
+---------------SONG TITLES----------------
+0  Twinkle Twinkle 1
+1  Scale Up 1
+2  Scale Down 1
+3  Flashy Minute Gaseous Orbital Units 1
+------------------------------------------
+
+Select song to modify: 0
+
+1 - Double length of each note (slower)
+2 - Half length of each note (faster)
+3 - Increase octave of each note 
+4 - Decrease octave of each note 
+
+Select option: 4
+How many octaves do you wish to decrease? 1
+Twinkle Twinkle 1 is now 1 octave lower.
+
+Do you wish to modify any songs (Y/N)? N
+
+"play_ringtone.html" file is generated and ready to play!
+
+Do you wish to run unittest on Task 3 before exiting (Y/N)? Y
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK
