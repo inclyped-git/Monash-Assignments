@@ -1,0 +1,428 @@
+You Can't Spell Culinary Without A & I is a board game where the goal is
+to fight to build the best food empire by acquiring a diverse collection
+of food establishments.
+
+LET'S BEGIN
+
+Choose a board - restaurant_small [0] restaurant_medium [1] restaurant_large [2]:
+0
+Enter Manager 1's name:
+BERYL
+Enter Manager 2's name:
+MAZE
+
+GAME STARTS
+
+
+--------------- Manager B's Turn ---------------
+
+ _____ _____ _____ _____
+|     |     |     |     |
+|     |     |     |  S  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |     |  C  |     |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |  C  |     |     |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|  C  |     |     |     |
+|_____|_____|_____|_____|
+
+BERYL is in position 3
+
+Choose next position [2, 7]: 7
+Moved to position 7
+
+Undo move [Y/N]: N
+
+BERYL becomes the first manager of The Codfather
+
+
+BERYL has 900 BiteCoins and manages 1 restaurant(s)
+
+FARM-TO-TABLE
+1. The Codfather (100 BiteCoins, 40%)
+OVERALL
+Restaurants worth 100 BiteCoins
+Managerial shares worth 40 BiteCoins
+
+--------------- Manager M's Turn ---------------
+
+ _____ _____ _____ _____
+|     |     |     |     |
+|     |     |     |  S  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |     |  C  |  B  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |  C  |     |     |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|  C  |     |     |     |
+|_____|_____|_____|_____|
+
+MAZE is in position 3
+
+Choose next position [2, 7]: 2
+Moved to position 2
+
+Undo move [Y/N]: Y
+Moved back to position 3
+
+Choose next position [2, 7]: 7
+Moved to position 7
+
+Undo move [Y/N]: N
+
+MAZE becomes co-manager of The Codfather
+
+
+MAZE has 900 BiteCoins and manages 1 restaurant(s)
+
+FARM-TO-TABLE
+1. The Codfather (100 BiteCoins, 30%)
+OVERALL
+Restaurants worth 100 BiteCoins
+Managerial shares worth 30 BiteCoins
+
+--------------- Manager B's Turn ---------------
+
+ _____ _____ _____ _____
+|     |     |     |     |
+|     |     |     |  S  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |     |  C  |B M  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |  C  |     |     |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|  C  |     |     |     |
+|_____|_____|_____|_____|
+
+BERYL is in position 7
+
+Choose next position [3, 6, 11]: 6
+Moved to position 6
+
+Undo move [Y/N]: N
+
+GRID EFFECT: Collected 84 BiteCoins
+
+BERYL has 984 BiteCoins and manages 1 restaurant(s)
+
+FARM-TO-TABLE
+1. The Codfather (100 BiteCoins, 40%)
+OVERALL
+Restaurants worth 100 BiteCoins
+Managerial shares worth 40 BiteCoins
+
+--------------- Manager M's Turn ---------------
+
+ _____ _____ _____ _____
+|     |     |     |     |
+|     |     |     |  S  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |     |  C  |B M  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |  C  |     |     |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|  C  |     |     |     |
+|_____|_____|_____|_____|
+
+MAZE is in position 7
+
+Choose next position [3, 6, 11]: 6
+Moved to position 6
+
+Undo move [Y/N]: N
+
+GRID EFFECT: Lost 268 BiteCoins
+
+MAZE has 589 BiteCoins and manages 1 restaurant(s)
+
+FARM-TO-TABLE
+1. The Codfather (100 BiteCoins, 30%)
+OVERALL
+Restaurants worth 100 BiteCoins
+Managerial shares worth 30 BiteCoins
+
+--------------- Manager B's Turn ---------------
+
+ _____ _____ _____ _____
+|     |     |     |     |
+|     |     |     |  S  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |     |  C  |B M  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |  C  |     |     |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|  C  |     |     |     |
+|_____|_____|_____|_____|
+
+BERYL is in position 6
+
+Choose next position [2, 5, 7, 10]: 5
+Moved to position 5
+
+Undo move [Y/N]: N
+
+BERYL becomes the first manager of Lord of the Fries
+
+
+BERYL has 924 BiteCoins and manages 2 restaurant(s)
+
+FARM-TO-TABLE
+1. The Codfather (100 BiteCoins, 40%)
+FAST FOOD
+1. Lord of the Fries (60 BiteCoins, 40%)
+OVERALL
+Restaurants worth 160 BiteCoins
+Managerial shares worth 64 BiteCoins
+
+--------------- Manager M's Turn ---------------
+
+ _____ _____ _____ _____
+|     |     |     |     |
+|     |     |     |  S  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |  B  |  C  |B M  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |  C  |     |     |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|  C  |     |     |     |
+|_____|_____|_____|_____|
+
+MAZE is in position 6
+
+Choose next position [2, 5, 7, 10]: 10
+Moved to position 10
+
+Undo move [Y/N]: N
+
+MAZE becomes the first manager of I Knead Pastries
+
+
+MAZE has 524 BiteCoins and manages 2 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. I Knead Pastries (65 BiteCoins, 40%)
+FARM-TO-TABLE
+1. The Codfather (100 BiteCoins, 30%)
+OVERALL
+Restaurants worth 165 BiteCoins
+Managerial shares worth 56 BiteCoins
+
+--------------- Manager B's Turn ---------------
+
+ _____ _____ _____ _____
+|     |     |     |     |
+|     |     |     |  S  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |  B  |  C  |B M  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |  C  |  M  |     |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|  C  |     |     |     |
+|_____|_____|_____|_____|
+
+BERYL is in position 5
+
+Choose next position [1, 4, 6, 9]: 6
+Moved to position 6
+
+Undo move [Y/N]: N
+
+GRID EFFECT: Collected 822 BiteCoins
+
+BERYL has 1746 BiteCoins and manages 2 restaurant(s)
+
+FARM-TO-TABLE
+1. The Codfather (100 BiteCoins, 40%)
+FAST FOOD
+1. Lord of the Fries (60 BiteCoins, 40%)
+OVERALL
+Restaurants worth 160 BiteCoins
+Managerial shares worth 64 BiteCoins
+
+--------------- Manager M's Turn ---------------
+
+ _____ _____ _____ _____
+|     |     |     |     |
+|     |     |     |  S  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |  B  |  C  |B M  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |  C  |  M  |     |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|  C  |     |     |     |
+|_____|_____|_____|_____|
+
+MAZE is in position 10
+
+Choose next position [6, 9, 11, 14]: 6
+Moved to position 6
+
+Undo move [Y/N]: N
+
+GRID EFFECT: Lost 242 BiteCoins
+
+MAZE has 432 BiteCoins and manages 2 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. I Knead Pastries (65 BiteCoins, 40%)
+FARM-TO-TABLE
+1. The Codfather (100 BiteCoins, 30%)
+OVERALL
+Restaurants worth 165 BiteCoins
+Managerial shares worth 56 BiteCoins
+
+--------------- Manager B's Turn ---------------
+
+ _____ _____ _____ _____
+|     |     |     |     |
+|     |     |     |  S  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |  B  |  C  |B M  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |  C  |  M  |     |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|  C  |     |     |     |
+|_____|_____|_____|_____|
+
+BERYL is in position 6
+
+Choose next position [2, 5, 7, 10]: 10
+Moved to position 10
+
+Undo move [Y/N]: N
+
+BERYL becomes co-manager of I Knead Pastries
+
+
+BERYL has 1681 BiteCoins and manages 3 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. I Knead Pastries (65 BiteCoins, 30%)
+FARM-TO-TABLE
+1. The Codfather (100 BiteCoins, 40%)
+FAST FOOD
+1. Lord of the Fries (60 BiteCoins, 40%)
+OVERALL
+Restaurants worth 225 BiteCoins
+Managerial shares worth 83 BiteCoins
+
+--------------- Manager M's Turn ---------------
+
+ _____ _____ _____ _____
+|     |     |     |     |
+|     |     |     |  S  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |  B  |  C  |B M  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |  C  |M B  |     |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|  C  |     |     |     |
+|_____|_____|_____|_____|
+
+MAZE is in position 6
+
+Choose next position [2, 5, 7, 10]: 7
+Moved to position 7
+
+Undo move [Y/N]: N
+
+MAZE becomes head-manager of The Codfather
+
+
+MAZE has 332 BiteCoins and manages 2 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. I Knead Pastries (65 BiteCoins, 40%)
+FARM-TO-TABLE
+1. The Codfather (100 BiteCoins, 60%)
+OVERALL
+Restaurants worth 165 BiteCoins
+Managerial shares worth 86 BiteCoins
+
+--------------- Manager B's Turn ---------------
+
+ _____ _____ _____ _____
+|     |     |     |     |
+|     |     |     |  S  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |  B  |  C  |B M M|
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |  C  |M B  |     |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|  C  |     |     |     |
+|_____|_____|_____|_____|
+
+BERYL is in position 10
+
+Choose next position [6, 9, 11, 14]: 14
+Moved to position 14
+
+Undo move [Y/N]: N
+
+BERYL becomes the first manager of Vincent Van Dough
+
+
+BERYL has 1631 BiteCoins and manages 4 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. I Knead Pastries (65 BiteCoins, 30%)
+2. Vincent Van Dough (50 BiteCoins, 40%)
+FARM-TO-TABLE
+1. The Codfather (100 BiteCoins, 40%)
+FAST FOOD
+1. Lord of the Fries (60 BiteCoins, 40%)
+OVERALL
+Restaurants worth 275 BiteCoins
+Managerial shares worth 103 BiteCoins
+
+ _____ _____ _____ _____
+|     |     |     |     |
+|     |     |     |  S  |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |  B  |  C  |B M M|
+|_____|_____|_____|_____|
+|     |     |     |     |
+|     |  C  |M B  |     |
+|_____|_____|_____|_____|
+|     |     |     |     |
+|  C  |     |  B  |     |
+|_____|_____|_____|_____|
+
+BERYL wins!
+
+GAME ENDS

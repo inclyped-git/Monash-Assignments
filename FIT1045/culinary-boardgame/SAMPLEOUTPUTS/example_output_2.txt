@@ -1,0 +1,1469 @@
+You Can't Spell Culinary Without A & I is a board game where the goal is
+to fight to build the best food empire by acquiring a diverse collection
+of food establishments.
+
+LET'S BEGIN
+
+Choose a board - restaurant_small [0] restaurant_medium [1] restaurant_large [2]:
+1
+Enter number of managers:
+3
+Enter Manager 1's name:
+HARMONICA
+Enter Manager 2's name:
+LARRY
+Enter Manager 3's name:
+SNAKE
+
+CHOOSE WINNING CONDITIONS
+
+Enter number of restaurants needed to win:
+5
+Enter average managerial share needed to win:
+50
+Enter restaurant types needed to win:
+4
+
+GAME STARTS
+
+
+--------------- Manager H's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |     |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |  C  |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |  C  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |  3  |  #  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |  9  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+HARMONICA is in position 4
+
+Choose next position [3, 9]: 9
+Moved to position 9
+
+Undo move [Y/N]: N
+
+HARMONICA becomes the first manager of Holy Crepe!
+
+
+HARMONICA has 950 BiteCoins and manages 1 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Holy Crepe! (50 BiteCoins, 40%)
+OVERALL
+Restaurants worth 50 BiteCoins
+Managerial shares worth 20 BiteCoins
+
+--------------- Manager L's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |     |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |  H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |  C  |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |  C  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |  3  |  #  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |  9  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+LARRY is in position 4
+
+Choose next position [3, 9]: 3
+Moved to position 3
+
+Undo move [Y/N]: N
+
+LARRY becomes the first manager of Whisk Takers
+
+
+LARRY has 950 BiteCoins and manages 1 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Whisk Takers (50 BiteCoins, 40%)
+OVERALL
+Restaurants worth 50 BiteCoins
+Managerial shares worth 20 BiteCoins
+
+--------------- Manager S's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |  L  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |  H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |  C  |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |  C  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |  3  |  #  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |  9  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+SNAKE is in position 4
+
+Choose next position [3, 9]: 9
+Moved to position 9
+
+Undo move [Y/N]: Y
+Moved back to position 4
+
+Choose next position [3, 9]: 3
+Moved to position 3
+
+Undo move [Y/N]: N
+
+SNAKE becomes co-manager of Whisk Takers
+
+
+SNAKE has 950 BiteCoins and manages 1 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Whisk Takers (50 BiteCoins, 30%)
+OVERALL
+Restaurants worth 50 BiteCoins
+Managerial shares worth 15 BiteCoins
+
+--------------- Manager H's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |  H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |  C  |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |  C  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |     |  4  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  8  |  #  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |1 4  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+HARMONICA is in position 9
+
+Choose next position [4, 8, 14]: 15
+Invalid choice. Try again!
+Choose next position [4, 8, 14]: 14
+Moved to position 14
+
+Undo move [Y/N]: N
+
+HARMONICA becomes the first manager of Cereal Killers
+
+
+HARMONICA has 900 BiteCoins and manages 2 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Holy Crepe! (50 BiteCoins, 40%)
+2. Cereal Killers (50 BiteCoins, 40%)
+OVERALL
+Restaurants worth 100 BiteCoins
+Managerial shares worth 40 BiteCoins
+
+--------------- Manager L's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |  H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |  C  |     |  H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |  C  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |  2  |  #  |  4  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  8  |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+LARRY is in position 3
+
+Choose next position [2, 4, 8]: 2
+Moved to position 2
+
+Undo move [Y/N]: N
+
+LARRY becomes the first manager of Map of the Fowl
+
+
+LARRY has 825 BiteCoins and manages 2 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Whisk Takers (50 BiteCoins, 40%)
+FARM-TO-TABLE
+1. Map of the Fowl (125 BiteCoins, 40%)
+OVERALL
+Restaurants worth 175 BiteCoins
+Managerial shares worth 70 BiteCoins
+
+--------------- Manager S's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |  L  |L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |  H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |  C  |     |  H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |  C  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |  2  |  #  |  4  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  8  |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+SNAKE is in position 3
+
+Choose next position [2, 4, 8]: 8
+Moved to position 8
+
+Undo move [Y/N]: N
+SNAKE becomes the first manager of Poultry in Motion
+
+GRID EFFECT: SNAKE moved to position 15
+
+SNAKE has 860 BiteCoins and manages 2 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Whisk Takers (50 BiteCoins, 30%)
+FARM-TO-TABLE
+1. Poultry in Motion (90 BiteCoins, 40%)
+OVERALL
+Restaurants worth 140 BiteCoins
+Managerial shares worth 51 BiteCoins
+
+--------------- Manager H's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |  L  |L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |  H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |  C  |     |  H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |  9  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |1 3  |  #  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |1 9  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+HARMONICA is in position 14
+
+Choose next position [9, 13, 19]: 9
+Moved to position 9
+
+Undo move [Y/N]: N
+
+HARMONICA becomes head-manager of Holy Crepe!
+
+
+HARMONICA has 850 BiteCoins and manages 2 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Holy Crepe! (50 BiteCoins, 70%)
+2. Cereal Killers (50 BiteCoins, 40%)
+OVERALL
+Restaurants worth 100 BiteCoins
+Managerial shares worth 55 BiteCoins
+
+--------------- Manager L's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |  L  |L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |  C  |     |  H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |  1  |  #  |  3  |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |  7  |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+LARRY is in position 2
+
+Choose next position [1, 3, 7]: 1
+Moved to position 1
+
+Undo move [Y/N]: N
+
+LARRY becomes the first manager of Pizza Whut
+
+
+LARRY has 765 BiteCoins and manages 3 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Whisk Takers (50 BiteCoins, 40%)
+FARM-TO-TABLE
+1. Map of the Fowl (125 BiteCoins, 40%)
+FAST FOOD
+1. Pizza Whut (60 BiteCoins, 40%)
+OVERALL
+Restaurants worth 235 BiteCoins
+Managerial shares worth 94 BiteCoins
+
+--------------- Manager S's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |  L  |  L  |L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |  C  |     |  H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|1 0  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  #  |1 6  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|2 0  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+SNAKE is in position 15
+
+Choose next position [10, 16, 20]: 10
+Moved to position 10
+
+Undo move [Y/N]: N
+
+SNAKE becomes the first manager of AbraKEBABra
+
+
+SNAKE has 760 BiteCoins and manages 3 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Whisk Takers (50 BiteCoins, 30%)
+FARM-TO-TABLE
+1. Poultry in Motion (90 BiteCoins, 40%)
+FUSION CUISINE
+1. AbraKEBABra (100 BiteCoins, 40%)
+OVERALL
+Restaurants worth 240 BiteCoins
+Managerial shares worth 91 BiteCoins
+
+--------------- Manager H's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |  L  |  L  |L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |     |  C  |     |  H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |     |  4  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  8  |  #  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |1 4  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+HARMONICA is in position 9
+
+Choose next position [4, 8, 14]: 14
+Moved to position 14
+
+Undo move [Y/N]: N
+
+HARMONICA becomes head-manager of Cereal Killers
+
+
+HARMONICA has 800 BiteCoins and manages 2 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Holy Crepe! (50 BiteCoins, 70%)
+2. Cereal Killers (50 BiteCoins, 70%)
+OVERALL
+Restaurants worth 100 BiteCoins
+Managerial shares worth 70 BiteCoins
+
+--------------- Manager L's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |  L  |  L  |L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |     |  C  |     |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|  0  |  #  |  2  |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |  6  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+LARRY is in position 
+
+Choose next position [0, 2, 6]: 2
+Moved to position 2
+
+Undo move [Y/N]: N
+
+LARRY becomes head-manager of Map of the Fowl
+
+
+LARRY has 640 BiteCoins and manages 3 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Whisk Takers (50 BiteCoins, 40%)
+FARM-TO-TABLE
+1. Map of the Fowl (125 BiteCoins, 70%)
+FAST FOOD
+1. Pizza Whut (60 BiteCoins, 40%)
+OVERALL
+Restaurants worth 235 BiteCoins
+Managerial shares worth 131 BiteCoins
+
+--------------- Manager S's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |  L  |L L  |L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |     |  C  |     |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  5  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  #  |1 1  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|1 5  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+SNAKE is in position 10
+
+Choose next position [5, 11, 15]: 11
+Moved to position 11
+
+Undo move [Y/N]: N
+
+SNAKE becomes the first manager of 4Toes Chicken
+
+
+SNAKE has 700 BiteCoins and manages 4 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Whisk Takers (50 BiteCoins, 30%)
+FARM-TO-TABLE
+1. Poultry in Motion (90 BiteCoins, 40%)
+FAST FOOD
+1. 4Toes Chicken (60 BiteCoins, 40%)
+FUSION CUISINE
+1. AbraKEBABra (100 BiteCoins, 40%)
+OVERALL
+Restaurants worth 300 BiteCoins
+Managerial shares worth 115 BiteCoins
+
+--------------- Manager H's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |  L  |L L  |L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  S  |  C  |     |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |  9  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |1 3  |  #  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |1 9  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+HARMONICA is in position 14
+
+Choose next position [9, 13, 19]: 9
+Moved to position 9
+
+Undo move [Y/N]: N
+
+HARMONICA becomes sole manager of Holy Crepe!
+
+
+HARMONICA has 750 BiteCoins and manages 2 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Holy Crepe! (50 BiteCoins, 100%)
+2. Cereal Killers (50 BiteCoins, 70%)
+OVERALL
+Restaurants worth 100 BiteCoins
+Managerial shares worth 85 BiteCoins
+
+--------------- Manager L's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |  L  |L L  |L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |H H H|
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  S  |  C  |     |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |  1  |  #  |  3  |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |  7  |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+LARRY is in position 2
+
+Choose next position [1, 3, 7]: 1
+Moved to position 1
+
+Undo move [Y/N]: N
+
+LARRY becomes head-manager of Pizza Whut
+
+
+LARRY has 580 BiteCoins and manages 3 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Whisk Takers (50 BiteCoins, 40%)
+FARM-TO-TABLE
+1. Map of the Fowl (125 BiteCoins, 70%)
+FAST FOOD
+1. Pizza Whut (60 BiteCoins, 70%)
+OVERALL
+Restaurants worth 235 BiteCoins
+Managerial shares worth 149 BiteCoins
+
+--------------- Manager S's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |L L  |L L  |L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |H H H|
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  S  |  C  |     |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |  6  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|1 0  |  #  |1 2  |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |1 6  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+SNAKE is in position 11
+
+Choose next position [6, 10, 12, 16]: 10
+Moved to position 10
+
+Undo move [Y/N]: N
+
+SNAKE becomes head-manager of AbraKEBABra
+
+
+SNAKE has 600 BiteCoins and manages 4 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Whisk Takers (50 BiteCoins, 30%)
+FARM-TO-TABLE
+1. Poultry in Motion (90 BiteCoins, 40%)
+FAST FOOD
+1. 4Toes Chicken (60 BiteCoins, 40%)
+FUSION CUISINE
+1. AbraKEBABra (100 BiteCoins, 70%)
+OVERALL
+Restaurants worth 300 BiteCoins
+Managerial shares worth 145 BiteCoins
+
+--------------- Manager H's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |L L  |L L  |L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |H H H|
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|S S  |  S  |  C  |     |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |  3  |  4  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  8  |  #  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |1 3  |1 4  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+HARMONICA is in position 9
+
+Choose next position [3, 4, 8, 13, 14]: 13
+Moved to position 13
+
+Undo move [Y/N]: N
+
+HARMONICA becomes the first manager of Frying Nemo
+
+
+HARMONICA has 660 BiteCoins and manages 3 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Holy Crepe! (50 BiteCoins, 100%)
+2. Cereal Killers (50 BiteCoins, 70%)
+FARM-TO-TABLE
+1. Frying Nemo (90 BiteCoins, 40%)
+OVERALL
+Restaurants worth 190 BiteCoins
+Managerial shares worth 121 BiteCoins
+
+--------------- Manager L's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |L L  |L L  |L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |H H H|
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|S S  |  S  |  C  |  H  |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|  0  |  #  |  2  |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |  6  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+LARRY is in position 1
+
+Choose next position [0, 2, 6]: 2
+Moved to position 2
+
+Undo move [Y/N]: N
+
+LARRY becomes sole manager of Map of the Fowl
+
+
+LARRY has 455 BiteCoins and manages 3 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Whisk Takers (50 BiteCoins, 40%)
+FARM-TO-TABLE
+1. Map of the Fowl (125 BiteCoins, 100%)
+FAST FOOD
+1. Pizza Whut (60 BiteCoins, 70%)
+OVERALL
+Restaurants worth 235 BiteCoins
+Managerial shares worth 187 BiteCoins
+
+--------------- Manager S's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |L L  |L L L|L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |H H H|
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|S S  |  S  |  C  |  H  |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  5  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  #  |1 1  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|1 5  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+SNAKE is in position 10
+
+Choose next position [5, 11, 15]: 11
+Moved to position 11
+
+Undo move [Y/N]: N
+
+SNAKE becomes head-manager of 4Toes Chicken
+
+
+SNAKE has 540 BiteCoins and manages 4 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Whisk Takers (50 BiteCoins, 30%)
+FARM-TO-TABLE
+1. Poultry in Motion (90 BiteCoins, 40%)
+FAST FOOD
+1. 4Toes Chicken (60 BiteCoins, 70%)
+FUSION CUISINE
+1. AbraKEBABra (100 BiteCoins, 70%)
+OVERALL
+Restaurants worth 300 BiteCoins
+Managerial shares worth 163 BiteCoins
+
+--------------- Manager H's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |L L  |L L L|L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |H H H|
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|S S  |S S  |  C  |  H  |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |  7  |  8  |  9  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |1 2  |  #  |1 4  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |1 7  |1 8  |1 9  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+HARMONICA is in position 13
+
+Choose next position [7, 8, 9, 12, 14, 17, 18, 19]: 18
+Moved to position 18
+
+Undo move [Y/N]: N
+
+HARMONICA becomes the first manager of SUShi HQ
+
+
+HARMONICA has 560 BiteCoins and manages 4 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Holy Crepe! (50 BiteCoins, 100%)
+2. Cereal Killers (50 BiteCoins, 70%)
+FARM-TO-TABLE
+1. Frying Nemo (90 BiteCoins, 40%)
+FUSION CUISINE
+1. SUShi HQ (100 BiteCoins, 40%)
+OVERALL
+Restaurants worth 290 BiteCoins
+Managerial shares worth 161 BiteCoins
+
+--------------- Manager L's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |L L  |L L L|L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |  C  |H H H|
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|S S  |S S  |  C  |  H  |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |     |  H  |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |  1  |  #  |  3  |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |  6  |  7  |  8  |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+LARRY is in position 2
+
+Choose next position [1, 3, 6, 7, 8]: 7
+Moved to position 7
+
+Undo move [Y/N]: N
+
+LARRY becomes the first manager of Starlucks
+
+
+LARRY has 390 BiteCoins and manages 4 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Whisk Takers (50 BiteCoins, 40%)
+2. Starlucks (65 BiteCoins, 40%)
+FARM-TO-TABLE
+1. Map of the Fowl (125 BiteCoins, 100%)
+FAST FOOD
+1. Pizza Whut (60 BiteCoins, 70%)
+OVERALL
+Restaurants worth 300 BiteCoins
+Managerial shares worth 213 BiteCoins
+
+--------------- Manager S's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |L L  |L L L|L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |  L  |  C  |H H H|
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|S S  |S S  |  C  |  H  |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |     |  H  |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |  6  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|1 0  |  #  |1 2  |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |1 6  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+SNAKE is in position 11
+
+Choose next position [6, 10, 12, 16]: 16
+Moved to position 16
+
+Undo move [Y/N]: N
+
+GRID EFFECT: Collected 508 BiteCoins
+
+SNAKE has 1048 BiteCoins and manages 4 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Whisk Takers (50 BiteCoins, 30%)
+FARM-TO-TABLE
+1. Poultry in Motion (90 BiteCoins, 40%)
+FAST FOOD
+1. 4Toes Chicken (60 BiteCoins, 70%)
+FUSION CUISINE
+1. AbraKEBABra (100 BiteCoins, 70%)
+OVERALL
+Restaurants worth 300 BiteCoins
+Managerial shares worth 163 BiteCoins
+
+--------------- Manager H's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |L L  |L L L|L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |  L  |  C  |H H H|
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|S S  |S S  |  C  |  H  |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |     |  H  |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |1 2  |1 3  |1 4  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |1 7  |  #  |1 9  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |2 2  |2 3  |2 4  |
+|_____|_____|_____|_____|_____|
+
+HARMONICA is in position 18
+
+Choose next position [12, 13, 14, 17, 19, 22, 23, 24]: 13
+Moved to position 13
+
+Undo move [Y/N]: N
+
+HARMONICA becomes head-manager of Frying Nemo
+
+
+HARMONICA has 470 BiteCoins and manages 4 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Holy Crepe! (50 BiteCoins, 100%)
+2. Cereal Killers (50 BiteCoins, 70%)
+FARM-TO-TABLE
+1. Frying Nemo (90 BiteCoins, 70%)
+FUSION CUISINE
+1. SUShi HQ (100 BiteCoins, 40%)
+OVERALL
+Restaurants worth 290 BiteCoins
+Managerial shares worth 188 BiteCoins
+
+--------------- Manager L's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |L L  |L L L|L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |  L  |  C  |H H H|
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|S S  |S S  |  C  |H H  |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |     |  H  |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |  1  |  2  |  3  |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |  6  |  #  |  8  |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |1 1  |1 2  |1 3  |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+LARRY is in position 7
+
+Choose next position [1, 2, 3, 6, 8, 11, 12, 13]: 6
+Moved to position 6
+
+Undo move [Y/N]: N
+
+LARRY becomes the first manager of Wurst Gastronomy
+
+
+LARRY has 265 BiteCoins and manages 5 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Whisk Takers (50 BiteCoins, 40%)
+2. Starlucks (65 BiteCoins, 40%)
+FARM-TO-TABLE
+1. Map of the Fowl (125 BiteCoins, 100%)
+2. Wurst Gastronomy (125 BiteCoins, 40%)
+FAST FOOD
+1. Pizza Whut (60 BiteCoins, 70%)
+OVERALL
+Restaurants worth 425 BiteCoins
+Managerial shares worth 263 BiteCoins
+
+--------------- Manager S's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |L L  |L L L|L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |  L  |  L  |  C  |H H H|
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|S S  |S S  |  C  |H H  |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |     |  H  |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |1 1  |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|1 5  |  #  |1 7  |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |2 1  |     |     |     |
+|_____|_____|_____|_____|_____|
+
+SNAKE is in position 16
+
+Choose next position [11, 15, 17, 21]: 11
+Moved to position 11
+
+Undo move [Y/N]: N
+
+SNAKE becomes sole manager of 4Toes Chicken
+
+
+SNAKE has 988 BiteCoins and manages 4 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Whisk Takers (50 BiteCoins, 30%)
+FARM-TO-TABLE
+1. Poultry in Motion (90 BiteCoins, 40%)
+FAST FOOD
+1. 4Toes Chicken (60 BiteCoins, 100%)
+FUSION CUISINE
+1. AbraKEBABra (100 BiteCoins, 70%)
+OVERALL
+Restaurants worth 300 BiteCoins
+Managerial shares worth 181 BiteCoins
+
+--------------- Manager H's Turn ---------------
+
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |L L  |L L L|L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |  L  |  L  |  C  |H H H|
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|S S  |S S S|  C  |H H  |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |     |  H  |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |  7  |  8  |  9  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |1 2  |  #  |1 4  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |1 7  |1 8  |1 9  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+HARMONICA is in position 13
+
+Choose next position [7, 8, 9, 12, 14, 17, 18, 19]: 17
+Moved to position 17
+
+Undo move [Y/N]: N
+
+HARMONICA becomes the first manager of MarryCrown
+
+
+HARMONICA has 395 BiteCoins and manages 5 restaurant(s)
+
+DESSERTS & BEVERAGES
+1. Holy Crepe! (50 BiteCoins, 100%)
+2. Cereal Killers (50 BiteCoins, 70%)
+FARM-TO-TABLE
+1. Frying Nemo (90 BiteCoins, 70%)
+FAST FOOD
+1. MarryCrown (75 BiteCoins, 40%)
+FUSION CUISINE
+1. SUShi HQ (100 BiteCoins, 40%)
+OVERALL
+Restaurants worth 365 BiteCoins
+Managerial shares worth 218 BiteCoins
+
+HARMONICA wins!
+ _____ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |L L  |L L L|L S  |  S  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|     |  L  |  L  |  C  |H H H|
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|S S  |S S S|  C  |H H  |H H  |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  S  |  C  |  H  |  H  |     |
+|_____|_____|_____|_____|_____|
+|     |     |     |     |     |
+|  C  |     |     |     |     |
+|_____|_____|_____|_____|_____|
+
+GAME ENDS
