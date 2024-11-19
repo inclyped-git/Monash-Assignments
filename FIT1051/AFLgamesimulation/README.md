@@ -8,7 +8,7 @@ This repository contains the source code that simulates the simple version of AF
 
 
 ## Restrictions
-The project was made with consideration of restrictions to user inputs, which may throw errors when some inputs are unexpected/invalidated. Some of them require specific input format, and it won't be covered under this repository. This repository serves the purpose of archiving some of my older projects during the FIT1045 unit.
+The project was made with consideration of restrictions to user inputs, which may throw errors when some inputs are unexpected/invalidated. Some of them require specific input format, and it won't be covered under this repository. This repository serves the purpose of archiving some of my older projects during the FIT1051 unit.
 
 
 ### Final Score: 97.5 / 100 (High Distinction)
