@@ -1,2 +1,10 @@
-# FIT1008_S1_2024
-Assignment for FIT1008 S1 2024
+# Pokemon Simulation
+This repository contains the source code that simulates the Pokemon game. This project was part of FIT1008-A1 S1-2024.
+
+## Running the program
+All the source code has been provided in the repository. Please download all the files accordingly to ensure successful running/testing of the programs.
+
+## Restrictions
+The project was made with consideration of restrictions to user inputs, which may throw errors when some inputs are unexpected/invalidated. Some of them require specific input format, and it won't be covered under this repository. This repository serves the purpose of archiving some of my older projects during the FIT1008 unit.
+
+### Final Score: 45 / 50 (High Distinction)
