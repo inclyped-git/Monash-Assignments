@@ -1,10 +1,10 @@
-# 24-S1-A2
-AI Viruses Assignment
+# Virus Simulation
+This repository contains the source code that simulates the Virus infection. This project was part of FIT1008-A2 S1-2024.
 
-## Running the Tests
+## Running the program
+All the source code has been provided in the repository. Please download all the files accordingly to ensure successful running/testing of the programs.
 
-`python run_tests.py`
+## Restrictions
+The project was made with consideration of restrictions to user inputs, which may throw errors when some inputs are unexpected/invalidated. Some of them require specific input format, and it won't be covered under this repository. This repository serves the purpose of archiving some of my older projects during the FIT1008 unit.
 
-## Running just some of the Tests
-
-`python run_tests.py 1` will run all tests marked with `@number("1.x")`.
+### Final Score: 47 / 50 (High Distinction)
