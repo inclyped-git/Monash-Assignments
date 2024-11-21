@@ -1,6 +1,6 @@
 % Q1.m
-% Student Name: Sharvan Saikumar
-% Student ID: 33918236
+% Student Name: Sharvan REDACTED
+% Student ID: REDACTED
 % Date: 05/10/2024 (last updated)
 
 fprintf("--- Q1 --- \n")
