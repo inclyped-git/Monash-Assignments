@@ -1,6 +1,6 @@
 %run_all.m
-% Student Name: Sharvan Saikumar
-% Student ID: 33918236
+% Student Name: REDACTED
+% Student ID: REDACTED
 % Date: 13/10/2024
 
 clear all; close all; clc;
